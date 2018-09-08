@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/jose.tello/IdeaProjects/DojoScala1/src/main/scala/main.scala:31:49: ']' expected but '=' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    implicit def studentFormat[Note: JsonFormat = jsonFormat3(Student.apply)][0m
+[0m[[0m[31merror[0m] [0m[0m                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/jose.tello/IdeaProjects/DojoScala1/src/main/scala/main.scala:34:51: ']' expected but '=' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    implicit def courseFormat[Student: JsonFormat = jsonFormat3(Student.apply)][0m
+[0m[[0m[31merror[0m] [0m[0m                                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
